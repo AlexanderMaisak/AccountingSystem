@@ -19,7 +19,7 @@ target/
 dist/
 
 # JetBrains IDE
-.idea/
+university-lab/.idea/
 
 # Unit test reports
 TEST*.xml
@@ -58,7 +58,7 @@ HELP.md
 .sts4-cache
 
 ### IntelliJ IDEA ###
-.idea
+university-lab/.idea
 *.iws
 *.iml
 *.ipr
@@ -78,4 +78,8 @@ HELP.md
 
 ### Local env vars
 .env*
+*.txt
+*.ob
 
+### Main Application class
+app/
